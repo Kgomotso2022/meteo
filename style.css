@@ -1,0 +1,14 @@
+body{
+    background-color:azure;
+}
+a{
+    color: gray;
+}
+.weather-app{
+    background-color: #fff;
+    max-width: 450px;
+    margin: 30px auto;
+    box-shadow: 30px 50px rgba 0,0,0,0.08;
+    border-radius: 16px;
+    padding: 40px;
+}
