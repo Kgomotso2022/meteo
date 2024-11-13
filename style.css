@@ -58,6 +58,7 @@ main{
 }
 .weather-app-temperature-container{
     display: flex;
+    text-align: left;
 
 }
 .weather-app-temperature{
